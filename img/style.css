@@ -1,0 +1,43 @@
+body{ margin: o;
+      background-color:beige;
+      font-family: tahoma;
+    } 
+
+.secao{ width: 700px;
+        margin: 20px auto;
+        text-align: center;
+    }
+
+.imagem-logotipo{ 
+       width: 200px;
+    } 
+    
+a { margin: 0 10px;
+    color: #542f0c;
+   }
+   
+h1{ font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 2px solid #de8e37;
+   }
+   
+h2{ font-weight:normal;
+    color: #de8e37;
+     margin-top: 10px;
+    }
+    
+.imagem-banner{
+      width: 700px;
+    }
+    
+.secao-destaque{background-color: #de8e37;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                color: #fff;
+            } 
+ 
+.secao-destaque h3{font-size: 24px;} 
+
+
