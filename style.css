@@ -25,7 +25,7 @@ h1{ font-size: 28px;
    
 h2{ font-weight:normal;
     color: #de8e37;
-     margin-top: 10px;
+     margin-top: 10px; 
     }
     
 .imagem-banner{
@@ -52,5 +52,3 @@ h2{ font-weight:normal;
 .secao-destaque img {width: 400px;}
 
 span {font-weight: bold;}
-
-
